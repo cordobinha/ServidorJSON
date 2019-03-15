@@ -1,10 +1,8 @@
 {
-  "carro":{
+  "filme":{
     "id":1,
-    "marca":"Peugeot",
-    "modelo":307,
-    "fabricacao":2007,
-    "automatico":true,
-    "opcionais":["ABS","AirBag","Ar Condicionado"]
+    "nome":"rei leão",
+    "quantidadeAtores":26,
+    "dataEstreia":2012-04-23T18:25:43.511Z
   }
 }
